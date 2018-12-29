@@ -1,3 +1,6 @@
-iofiles
-desktop.ini
+*.o
 *.exe
+.vscode
+iofiles
+tempCodeRunnerFile.cpp
+desktop.ini
